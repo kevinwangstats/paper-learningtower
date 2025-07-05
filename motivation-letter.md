@@ -23,5 +23,4 @@ We believe this article will be of significant interest to R Journal readers, as
 \bigskip
 
 Regards,  
-Kevin Wang
-kevinwangstats@gmail.com    
+Kevin Wang (kevinwangstats@gmail.com)

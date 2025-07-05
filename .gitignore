@@ -40,3 +40,6 @@ vignettes/*.pdf
 
 # Junk files
 .DS_Store
+
+# Remove log files
+*.log

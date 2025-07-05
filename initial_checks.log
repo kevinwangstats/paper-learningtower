@@ -1,48 +1,10 @@
 Initial check results: 
 
-ERROR: Submission does not have consistently named tex, R files
-ERROR: There are nested subdirectories. Please use at most two directory levels for the article.
-ERROR: It looks like there are image(s) in the main directory: gender_gap_plot.png, Rlogo-5.png.
-If so, they should be organised into figures/ folder.
-SUCCESS: No problematic file found
-SUCCESS: Possible motivation letter found: motivation-letter.md, motivation-letter.pdf
-ERROR: Article title not in title case! Suggest title: Learningtower: An R Package for Exploring Standardised Test Scores Across the Globe.
-SUCCESS: Section titles formatted in sentence case.
-ERROR: Abstract should be plain text without package markups,
-mathematical notations, citation, or other formattings.
-Initial check results: 
-
-ERROR: Submission does not have consistently named tex, R files
-ERROR: There are nested subdirectories. Please use at most two directory levels for the article.
-ERROR: It looks like there are image(s) in the main directory: gender_gap_plot.png, Rlogo-5.png.
-If so, they should be organised into figures/ folder.
-SUCCESS: No problematic file found
-SUCCESS: Possible motivation letter found: motivation-letter.md, motivation-letter.pdf
-ERROR: Article title not in title case! Suggest title: Learningtower: An R Package for Exploring Standardised Test Scores Across the Globe.
-SUCCESS: Section titles formatted in sentence case.
-ERROR: Abstract should be plain text without package markups,
-mathematical notations, citation, or other formattings.
-Initial check results: 
-
-ERROR: Submission does not have consistently named tex, R files
-ERROR: There are nested subdirectories. Please use at most two directory levels for the article.
-ERROR: It looks like there are image(s) in the main directory: gender_gap_plot.png, Rlogo-5.png.
-If so, they should be organised into figures/ folder.
-SUCCESS: No problematic file found
-SUCCESS: Possible motivation letter found: motivation-letter.md, motivation-letter.pdf
-ERROR: Article title not in title case! Suggest title: Learningtower: An R Package for Exploring Standardised Test Scores Across the Globe.
-SUCCESS: Section titles formatted in sentence case.
-ERROR: Abstract should be plain text without package markups,
-mathematical notations, citation, or other formattings.
-Initial check results: 
-
 SUCCESS: Submission has consistently named tex, bib, and R files
 ERROR: There are nested subdirectories. Please use at most two directory levels for the article.
-ERROR: It looks like there are image(s) in the main directory: gender_gap_plot.png, Rlogo-5.png.
-If so, they should be organised into figures/ folder.
+NOTE: Remove .log, .aux and .out files before submitting.
 SUCCESS: No problematic file found
 SUCCESS: Possible motivation letter found: motivation-letter.md, motivation-letter.pdf
 ERROR: Article title not in title case! Suggest title: Learningtower: An R Package for Exploring Standardised Test Scores Across the Globe.
 SUCCESS: Section titles formatted in sentence case.
-ERROR: Abstract should be plain text without package markups,
-mathematical notations, citation, or other formattings.
+SUCCESS: Abstract formatted in plain text.
