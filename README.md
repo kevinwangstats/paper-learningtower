@@ -14,5 +14,5 @@ rmarkdown::render('learningtower.Rmd', output_format = 'all')
 
 All the checks are passing except two: 
 
-1. `There are nested subdirectories. Please use at most two directory levels for the article.` This occurs when there are cached js packages and images. 
-2. `Article title not in title case!` The only non-title case refers to the name of the package, i.e. "l" instead of "L". This cannot be easily changed due to the case-sensitive nature of the R ecosystem. We believe the R Journal has previously accepted [an article](https://journal.r-project.org/articles/RJ-2024-024/) with similar title before.
+1. `ERROR: There are nested subdirectories.` This occurs when there are cached js/css packages in the `learningtower_files` directory which enabled the correct display of the `learningtower.html` file locally. 
+2. `ERROR: Article title not in title case!` The only non-title case refers to the name of the package, i.e. "l" instead of "L". This cannot be easily changed due to the case-sensitive nature of the R ecosystem. We believe the R Journal has previously accepted [an article](https://journal.r-project.org/articles/RJ-2024-024/) with similar title before.
