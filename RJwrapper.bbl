@@ -17,44 +17,56 @@ O.~for Economic~Cooperation and Development.
 \newblock URL \url{https://www.oecd.org/education/1841854.pdf}.
 \newblock Accessed: 2021-11-03.
 
-\bibitem[{Garnier} et~al.(2021){Garnier}, {Simon}, {Ross}, {Noam}, {Rudis}, {Robert}, {Camargo}, Pedro, {Sciaini}, {Marco}, {Scherer}, and {Cédric}]{viridis}
-{Garnier}, {Simon}, {Ross}, {Noam}, {Rudis}, {Robert}, {Camargo}, A.~Pedro, {Sciaini}, {Marco}, {Scherer}, and {Cédric}.
+\bibitem[{Garnier} et~al.(2021){Garnier}, {Simon}, {Ross}, {Noam}, {Rudis},
+  {Robert}, {Camargo}, Pedro, {Sciaini}, {Marco}, {Scherer}, and
+  {Cédric}]{viridis}
+{Garnier}, {Simon}, {Ross}, {Noam}, {Rudis}, {Robert}, {Camargo}, A.~Pedro,
+  {Sciaini}, {Marco}, {Scherer}, and {Cédric}.
 \newblock \emph{{viridis} - Colorblind-Friendly Color Maps for R}, 2021.
 \newblock URL \url{https://sjmgarnier.github.io/viridis/}.
 \newblock R package version 0.6.2.
 
-\bibitem[O'Hara-Wild et~al.(2021)O'Hara-Wild, Kobakian, Zhang, and Cook]{rjtools}
+\bibitem[O'Hara-Wild et~al.(2021)O'Hara-Wild, Kobakian, Zhang, and
+  Cook]{rjtools}
 M.~O'Hara-Wild, S.~Kobakian, H.~S. Zhang, and D.~Cook.
-\newblock \emph{{rjtools}: Tools for Preparing, Checking, and Submitting Articles to the R Journal}, 2021.
+\newblock \emph{{rjtools}: Tools for Preparing, Checking, and Submitting
+  Articles to the R Journal}, 2021.
 \newblock URL \url{https://github.com/rjournal/rjtools}.
 \newblock R package version 0.0.0.9002.
 
-\bibitem[{Organization for Economic Cooperation and Development}(2014)]{pisabook}
+\bibitem[{Organization for Economic Cooperation and
+  Development}(2014)]{pisabook}
 {Organization for Economic Cooperation and Development}.
 \newblock \emph{What is PISA?}
 \newblock OECDiLibrary, 2014.
 \newblock ISBN 978-92-64-20878-0.
-\newblock URL \url{https://www.oecd-ilibrary.org/content/component/9789264208780-5-en}.
+\newblock URL
+  \url{https://www.oecd-ilibrary.org/content/component/9789264208780-5-en}.
 
-\bibitem[{Organization for Economic Cooperation and Development}(2021{\natexlab{a}})]{oecd}
+\bibitem[{Organization for Economic Cooperation and
+  Development}(2021{\natexlab{a}})]{oecd}
 {Organization for Economic Cooperation and Development}.
 \newblock \emph{About OECD}, 2021{\natexlab{a}}.
 \newblock URL \url{https://www.oecd.org/about/}.
 \newblock Accessed: 2021-11-03.
 
-\bibitem[{Organization for Economic Cooperation and Development}(2021{\natexlab{b}})]{pisa}
+\bibitem[{Organization for Economic Cooperation and
+  Development}(2021{\natexlab{b}})]{pisa}
 {Organization for Economic Cooperation and Development}.
 \newblock \emph{About PISA}, 2021{\natexlab{b}}.
 \newblock URL \url{https://www.oecd.org/pisa/}.
 \newblock Accessed: 2021-11-03.
 
-\bibitem[{Organization for Economic Cooperation and Development}(2021{\natexlab{c}})]{scaling}
+\bibitem[{Organization for Economic Cooperation and
+  Development}(2021{\natexlab{c}})]{scaling}
 {Organization for Economic Cooperation and Development}.
 \newblock \emph{Scaling PISA data}, 2021{\natexlab{c}}.
-\newblock URL \url{https://www.oecd.org/pisa/data/pisa2018technicalreport/Ch.09-Scaling-PISA-Data.pdf}.
+\newblock URL
+  \url{https://www.oecd.org/pisa/data/pisa2018technicalreport/Ch.09-Scaling-PISA-Data.pdf}.
 \newblock Accessed: 2021-11-03.
 
-\bibitem[{Organization for Economic Cooperation and Development}(2021{\natexlab{d}})]{test}
+\bibitem[{Organization for Economic Cooperation and
+  Development}(2021{\natexlab{d}})]{test}
 {Organization for Economic Cooperation and Development}.
 \newblock \emph{About the PISA Test}, 2021{\natexlab{d}}.
 \newblock URL \url{https://www.oecd.org/pisa/test/}.
@@ -74,15 +86,20 @@ T.~L. Pedersen and D.~Robinson.
 
 \bibitem[Sievert(2020)]{plotly}
 C.~Sievert.
-\newblock \emph{Interactive Web-Based Data Visualization with R, {plotly}, and {shiny}}.
+\newblock \emph{Interactive Web-Based Data Visualization with R, {plotly}, and
+  {shiny}}.
 \newblock Chapman and Hall/CRC, 2020.
 \newblock ISBN 9781138331457.
 \newblock URL \url{https://plotly-r.com}.
 
-\bibitem[Wang et~al.(2021)Wang, Yacobellis, Siregar, Romanes, Fitter, {Valentino Dalla Riva}, Cook, Tierney, and Dingorkar]{learningtower}
-K.~Wang, P.~Yacobellis, E.~Siregar, S.~Romanes, K.~Fitter, G.~{Valentino Dalla Riva}, D.~Cook, N.~Tierney, and P.~Dingorkar.
-\newblock \emph{{learningtower}: OECD PISA datasets from 2000-2018 in an easy-to-use format}, 2021.
-\newblock https://kevinwang09.github.io/learningtower/, https://github.com/kevinwang09/learningtower.
+\bibitem[Wang et~al.(2024)Wang, Yacobellis, Siregar, Romanes, Fitter,
+  {Valentino Dalla Riva}, Cook, Tierney, and Dingorkar]{learningtower}
+K.~Wang, P.~Yacobellis, E.~Siregar, S.~Romanes, K.~Fitter, G.~{Valentino Dalla
+  Riva}, D.~Cook, N.~Tierney, and P.~Dingorkar.
+\newblock \emph{{learningtower}: OECD PISA datasets from 2000-2022 in an
+  easy-to-use format}, 2024.
+\newblock https://cran.r-project.org/package=learningtower,
+  https://kevinwang09.github.io/learningtower/.
 
 \bibitem[Wickham(2016)]{ggplot2}
 H.~Wickham.
@@ -91,10 +108,17 @@ H.~Wickham.
 \newblock ISBN 978-3-319-24277-4.
 \newblock URL \url{https://ggplot2.tidyverse.org}.
 
-\bibitem[Wickham et~al.(2019)Wickham, Averick, Bryan, Chang, McGowan, François, Grolemund, Hayes, Henry, Hester, Kuhn, Pedersen, Miller, Bache, Müller, Ooms, Robinson, Seidel, Spinu, Takahashi, Vaughan, Wilke, Woo, and Yutani]{tidyverse}
-H.~Wickham, M.~Averick, J.~Bryan, W.~Chang, L.~D. McGowan, R.~François, G.~Grolemund, A.~Hayes, L.~Henry, J.~Hester, M.~Kuhn, T.~L. Pedersen, E.~Miller, S.~M. Bache, K.~Müller, J.~Ooms, D.~Robinson, D.~P. Seidel, V.~Spinu, K.~Takahashi, D.~Vaughan, C.~Wilke, K.~Woo, and H.~Yutani.
+\bibitem[Wickham et~al.(2019)Wickham, Averick, Bryan, Chang, McGowan,
+  François, Grolemund, Hayes, Henry, Hester, Kuhn, Pedersen, Miller, Bache,
+  Müller, Ooms, Robinson, Seidel, Spinu, Takahashi, Vaughan, Wilke, Woo, and
+  Yutani]{tidyverse}
+H.~Wickham, M.~Averick, J.~Bryan, W.~Chang, L.~D. McGowan, R.~François,
+  G.~Grolemund, A.~Hayes, L.~Henry, J.~Hester, M.~Kuhn, T.~L. Pedersen,
+  E.~Miller, S.~M. Bache, K.~Müller, J.~Ooms, D.~Robinson, D.~P. Seidel,
+  V.~Spinu, K.~Takahashi, D.~Vaughan, C.~Wilke, K.~Woo, and H.~Yutani.
 \newblock Welcome to the {tidyverse}.
-\newblock \emph{Journal of Open Source Software}, 4\penalty0 (43):\penalty0 1686, 2019.
+\newblock \emph{Journal of Open Source Software}, 4\penalty0 (43):\penalty0
+  1686, 2019.
 \newblock \doi{10.21105/joss.01686}.
 
 \bibitem[Wickham et~al.(2021)Wickham, François, Henry, and Müller]{dplyr}
